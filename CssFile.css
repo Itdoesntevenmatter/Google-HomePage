@@ -1,0 +1,26 @@
+.Links {font-size:12px;
+padding-top:15px;
+margin:15px;
+text-align:right;}
+
+a {color:grey;}
+
+img {padding-top:120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Searching {text-align:center;}
+
+button {background:transparent;}
+
+.SearchNow {text-align:center;}
+
+.Languages {text-align:center;
+font-size:15px;
+}
+.lang {color:blue;}
+
+.Ending {text-align:center;}
+
